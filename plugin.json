@@ -1,0 +1,13 @@
+{
+  "name": "DeckHub",
+  "author": "DeckHub",
+  "flags": [],
+  "publish": {
+    "tags": [
+      "utility",
+      "gaming"
+    ],
+    "description": "DeckHub \u2014 Made for gamers. By a gamer. A customizable game and app launcher for Steam Deck Gaming Mode."
+  },
+  "api_version": 1
+}
